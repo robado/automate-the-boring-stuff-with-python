@@ -64,4 +64,4 @@ spam4()
 print(eggs4)
 
 # Resources
-# https://automatetheboringstuff.com/ (pages - 67 -71)
+# https://automatetheboringstuff.com/ (pages 67 - 71)

@@ -65,5 +65,5 @@ print('cat', 'dog', 'mouse')
 print('cat', 'dog', 'mouse', sep='ABC')  # catABCdogABCmouse
 
 # Resources
-# https://automatetheboringstuff.com/ (pages - 61-66)
+# https://automatetheboringstuff.com/ (pages 61-66)
 # https://automatetheboringstuff.com/eval/9-1.html
