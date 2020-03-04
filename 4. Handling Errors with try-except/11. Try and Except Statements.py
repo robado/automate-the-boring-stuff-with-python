@@ -62,4 +62,4 @@ except ValueError:
     print('You did not enter a number.')
 
 # Resources
-# https://automatetheboringstuff.com/ (pages 72 -73)
+# https://automatetheboringstuff.com/ (pages 72 - 73)
